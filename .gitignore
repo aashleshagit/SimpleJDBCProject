@@ -1,0 +1,13 @@
+
+---
+
+### 🧾 3️⃣ File: `.gitignore`
+
+```gitignore
+# Ignore compiled files
+*.class
+# Ignore IDE files
+.vscode/
+.idea/
+# Ignore database credentials
+config.properties
