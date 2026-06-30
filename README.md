@@ -4,10 +4,14 @@ This is a simple Java JDBC project that connects to a MySQL database, creates a 
 
 ---
 
-## 🛠 Requirements
-- Java JDK 17 or later
-- MySQL Server installed and running
-- MySQL Connector/J (JAR file)
+## 🛠️ Technologies Used
+
+- Java
+- JDBC
+- MySQL
+- MySQL Connector/J
+- SQL
+- IntelliJ IDEA
 
 ---
 
